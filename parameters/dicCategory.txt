@@ -1,0 +1,142 @@
+Mineiro do posto,Alimentação: Comer no trabalho
+Cantina Itaú,Alimentação: Comer no trabalho
+Carrefour,Alimentação: Comer em casa
+Coquinha,Alimentação: Comer no trabalho
+Salário,
+Frutilla,Alimentação: Comer fora de casa
+Canastra pão de queijaria,Alimentação: Comer fora de casa
+De Gusto,Alimentação: Comer no trabalho
+San Paolo,Alimentação: Comer no trabalho
+Padaria Pão Caseiro,Alimentação: Comer em casa
+Mit,Alimentação: Comer no trabalho
+Tutto Infamiglia,Alimentação: Comer no trabalho
+Máquina FLFC,Alimentação: Comer no trabalho
+Kaipei,Alimentação: Comer no trabalho
+Nacho Libre,Alimentação: Comer fora de casa
+Latife Center 3,Alimentação: Comer fora de casa
+Real Pizzaria,Alimentação: Comer fora de casa
+Charme da Conceicao,Alimentação: Comer no trabalho
+Samosa & Company,Alimentação: Comer fora de casa
+Escola de Música,Alimentação: Comer no trabalho
+Magia de Minas,Alimentação: Comer no trabalho
+Habib's,Alimentação: Comer fora de casa
+Sukiya,Alimentação: Comer fora de casa
+Komezushi,Alimentação: Comer no trabalho
+Massinha,Alimentação: Comer no trabalho
+Kebab Paris,Alimentação: Comer fora de casa
+Conveniência Graal,Alimentação: Comer fora de casa
+Osnir,Alimentação: Comer fora de casa
+Kopenhagen,Alimentação: Comer fora de casa
+Mexcla,Alimentação: Comer fora de casa
+Ventana,Alimentação: Comer no trabalho
+Brasileirinho,Alimentação: Comer fora de casa
+Bottled Dog,Alimentação: Comer no trabalho
+Vibá,Alimentação: Comer no trabalho
+Pão de Açúcar,Alimentação: Comer em casa
+Extra,Alimentação: Comer em casa
+Mercadinho Belize,Alimentação: Comer em casa
+Delícia de Perdizes,Alimentação: Comer fora de casa
+Padaria Pão Caseiro,Alimentação: Comer em casa
+Lamen Açu,Alimentação: Comer fora de casa
+Eletrônicos Rodoviária Novo Rio,Hobbies: Gadgets
+Ticket Metrô,Transporte: Público
+Blue Pub,Alimentação: Comer fora de casa
+Rendimento,
+Bao Hut,Alimentação: Comer fora de casa
+Caixote Augusta,Alimentação: Comer fora de casa
+Semparar,Transporte: Carlos Sueli
+IOF,Recorrentes: Impostos
+Lojas Americanas,Recorrentes: Contas Exporádicas
+Academia de jogos,Hobbies: Dentro de casa
+Peixaria Feira Praça da Árvore,Alimentação: Comer em casa
+Drogasil,Saúde: Farmácia
+Seguro de Vida,Saúde: Planos de Saúde
+Plano de Saúde,Saúde: Planos de Saúde
+Plano Odontológico,Saúde: Planos de Saúde
+Vale Transporte,
+JazzB,Alimentação: Comer fora de casa
+La Peruana,Alimentação: Comer fora de casa
+Lemni Café,Alimentação: Comer fora de casa
+Gasolina,Transporte: Carlos Sueli
+Hirota,Alimentação: Comer em casa
+LIS,Recorrentes: Impostos
+Rinconcito Peruano,Alimentação: Comer fora de casa
+Recanto da Economia,Alimentação: Comer em casa
+Compania das letras,Hobbies: Dentro de casa
+Passagem Rodoviária,Transporte: Público
+Jiquitaia,Alimentação: Comer fora de casa
+Casa Bueno,Alimentação: Comer em casa
+Mercearia São Pedro,Alimentação: Comer fora de casa
+Coco Bambú,Alimentação: Comer fora de casa
+Frango Assado,Alimentação: Comer fora de casa
+Soho,Saúde: Farmácia
+Coffe Lab,Alimentação: Comer fora de casa
+Lanche de Pernil CEAGESP,Alimentação: Comer fora de casa
+Leroy Merlin,Recorrentes: Contas Exporádicas
+The Pitchers,Alimentação: Comer fora de casa
+Cantinho Mineiro Paranapiacaba,Alimentação: Comer fora de casa
+Estacionamento,Transporte: Carlos Sueli
+Coffee Corner,Alimentação: Comer fora de casa
+Dai Kin,Alimentação: Comer em casa
+Quiosque Copacabana,Alimentação: Comer fora de casa
+Bar Urca,Alimentação: Comer fora de casa
+Taxi,Transporte: Público
+PLR,
+Padaria Imperial,Alimentação: Comer fora de casa
+Choperia Liberdade,Hobbies: Fora de casa
+Esfirraria Olé,Alimentação: Comer fora de casa
+Cobasi,Hobbies: Dentro de casa
+Pousada Parque Ecológico,Planos Futuros: Férias
+Jardinagem Guarani,Hobbies: Dentro de casa
+China In Box,Alimentação: Comer fora de casa
+BH Lanches,Alimentação: Comer fora de casa
+Lanchonete Cuca Ideal,Alimentação: Comer fora de casa
+Zé do Hamburger,Alimentação: Comer fora de casa
+O Gaiteiro,Alimentação: Comer no trabalho
+Aneto,Alimentação: Comer no trabalho
+Amarelinho das Batidas,Alimentação: Comer no trabalho
+Dona Deola,Alimentação: Comer no trabalho
+Momiji,Alimentação: Comer no trabalho
+Marach,Alimentação: Comer no trabalho
+Center Castilho,Hobbies: Dentro de casa
+Banca do Jo,Hobbies: Dentro de casa
+Pastel da Feira,Alimentação: Comer fora de casa
+Pitico,Alimentação: Comer fora de casa
+Casa Raw,Alimentação: Comer fora de casa
+Daiso,Recorrentes: Contas Exporádicas
+Caldo de Cana da Feira,Alimentação: Comer fora de casa
+Padaria Pães e Doces,Alimentação: Comer em casa
+New Kebabel,Alimentação: Comer fora de casa
+IR,Recorrentes: Impostos
+Padaria Júlia,Alimentação: Comer no trabalho
+Padaria Pão Casiero,Alimentação: Comer em casa
+Lavanderia,Recorrentes: Contas Variáveis
+Pizza no Pé,Alimentação: Comer fora de casa
+Passagem Rodoviária,Transporte: Público
+Subway,Alimentação: Comer fora de casa
+Bobs,Alimentação: Comer fora de casa
+Restaurante Minha casa,Alimentação: Comer fora de casa
+Hotel Juliana Patos de Minas,Planos Futuros: Férias
+Padaria Arcadas,Alimentação: Comer fora de casa
+Restaurante Shanghai,Alimentação: Comer fora de casa
+Sukiya,Alimentação: Comer fora de casa
+Restaurante Friends,Alimentação: Comer fora de casa
+Guanabara,Alimentação: Comer fora de casa
+Maria Escaleira,Alimentação: Comer fora de casa
+Qiloon,Alimentação: Comer no trabalho
+Pura Gula,Alimentação: Comer no trabalho
+Polska 295,Alimentação: Comer fora de casa
+La Parrilla,Alimentação: Comer no trabalho
+Pizzaria Olé,Alimentação: Comer fora de casa
+Novo Mit,Alimentação: Comer no trabalho
+Monte Grappa,Alimentação: Comer no trabalho
+Divino Fogão,Alimentação: Comer fora de casa
+Mestre das Batidas,Alimentação: Comer no trabalho
+Yumn,Alimentação: Comer no trabalho
+Rockabilly Lanches,Alimentação: Comer fora de casa
+Ragazzo,Alimentação: Comer fora de casa
+Salada Record,Alimentação: Comer fora de casa
+Point Augusta Lanches,Alimentação: Comer fora de casa
+Kebab Paris,Alimentação: Comer fora de casa
+Z Deli,Alimentação: Comer fora de casa
+Rinconcito Peruano,Alimentação: Comer fora de casa

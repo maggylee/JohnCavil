@@ -1,0 +1,163 @@
+DISPONIB. DE CREDITO,Salário
+VILLA BOIM REST,Coquinha
+FOGO E FOGAO,Mineiro do posto
+SODEXHO,Cantina Itaú
+CARREFOUR EXPRESS,Carrefour
+FRUTILLA,Frutilla
+PAO DE QUEIJARIA CANASTRA,Canastra Pão de Queijaria
+AHR COMERCIO DE ALIMENTOS LTDA ME,De Gusto
+ADAMIS RESTAURANTE,San Paolo
+PANIF PAO CASEIRO,Padaria Pão Caseiro
+MIURA GALDINO BAR E RESTAURANTE,Mit
+TUTTO INFAMIGLIA REFEICOES,Tutto Infamiglia
+BRASVENDING COMERCIAL LTDA,Máquina FLFC
+A3 RESTAURANTE,Kaipei
+LANCHONETE ACAI NACHO LIBRE,Nacho Libre
+LATIF KILO ARABE,Latife Center 3
+REAL BUFFET E DELIVERY,Real Pizzaria
+charme da conceicao,Charme da Conceicao
+SHAKTI CULINARIA,Samosa & Company
+HIGH FIVE,Escola de Música
+ESTACAO SABOR,Magia de Minas
+HABIB S,Habib's
+SUKIYA,Sukiya
+KOMEZUSHI RESTAURANTE,Komezushi
+CAFE DE CASA,Massinha
+KEBAB PARIS,Kebab Paris
+GRAAL,Conveniência Graal
+OSNIR HAMBURGER,Osnir
+CIKAKAU,Kopenhagen
+MEXCLA,Mexcla
+RESTAURANTE VENTANA CONCEICAO,Ventana
+BRASILEIRINHO DELIVERY,Brasileirinho
+VILLA IMPERIAL BAR LTDA,Bottled Dog
+VIBBA BAR E REST,Vibá
+PAO DE ACUCAR,Pão de Açúcar
+EXTRA,Extra
+MERCADINHO BELIZE,Mercadinho Belize
+DELICIA DE PERDIZES,Delícia de Perdizes
+PANIFICADORA E CONFEITARIA SF LTDA ME,Padaria Pão Caseiro
+LAMEN ACU  ,Lamen Açu
+MARGARET MA,Eletrônicos Rodoviária Novo Rio
+PRODATA MOB,Ticket Metrô
+RODOSNACK I,Conveniência Graal
+THE BLUE PU,Blue Pub
+REND PAGO APLIC AUT MAIS,Rendimento
+BAOS HUT   ,Bao Hut
+CAIXOTE BAR,Caixote Augusta
+FOLHA PAGAMENTO MENSAL  ,Salário
+DEB AUTOR SEM PARAR     ,Semparar
+IOF                     ,IOF
+LOJAS AMERI,Lojas Americanas
+COMPANHIA O,Academia de jogos
+OPF IOF CAMBIO          ,IOF
+PAO DE ACUC,Pão de Açúcar
+PESCADOS GA,Peixaria Feira Praça da Árvore
+DROGASIL 03,Drogasil
+SEGURO VIDA BASICO      ,Seguro de Vida
+CONTRIB PLANO SAUDE     ,Plano de Saúde
+CONTRIB PL ODONTO       ,Plano Odontológico
+CREDITO VALE-TRANSPORTE ,Vale Transporte
+GLVT RESTAU,Brasileirinho
+JAZZB RESTA,JazzB
+LA PERUANA ,La Peruana
+LEMNI      ,Lemni Café
+POSTO SAN D,Gasolina
+SUPERMERCAD,Hirota
+JUROS ADIANT DEPOSITANTE,LIS
+EST JR ADIAN DEPOSITANTE,LIS
+RINCONCITO ,Rinconcito Peruano
+RECANTO SUP,Recanto da Economia
+REAL PERUIB,Compania das letras
+COMETA  TIE,Passagem Rodoviária
+CINE BRISTO,Jiquitaia
+CASA BUENO ,Casa Bueno
+KOPENHAGEN ,Kopenhagen
+MERCEARIA S,Mercearia São Pedro
+COCO BAMBU ,Coco Bambú
+LANCHONETE ,Kebab Paris
+FRANGO ASSA,Frango Assado
+RODOSNACK A,Conveniência Graal
+SOHO VILA M,Soho
+ISABELA RAP,Coffe Lab
+BAR LANCHES,Coffee Corner
+LEROY MERLI,Leroy Merlin
+THE PITCHER,The Pitchers
+REST CANTIN,Cantinho Mineiro Paranapiacaba
+PIN*ESTANCI,Estacionamento
+COFFEE CORN,Coffee Corner
+DAI KIN    ,Dai Kin
+REND PAGO APLIC AUT APR ,Rendimento
+SANTA CLARA,Quiosque Copacabana
+RODOSNACK T,Conveniência Graal
+PA 1629 BOT,Bar Urca
+NOVO RIO CO,Taxi
+FOLHA DE PARTICIPACAO   ,PLR
+CASA IMPERI,Padaria Imperial
+EXP SUL  SA,Passagem Rodoviária
+PAG*nigrosb,Conveniência Graal
+JACKSON AUG,Choperia Liberdade
+CHOPPERIA L,Choperia Liberdade
+ESFIRA OLE ,Esfirraria Olé
+COBASI AUGU,Cobasi
+NOVE DE JUL,Conveniência Graal
+POUSADA PAR,Pousada Parque Ecológico
+PIZZA OLE  ,Esfirraria Olé
+GUARANY GAR,Jardinagem Guarani
+CHINA IN BOX,China In Box
+LUCIANA ALMEIDA BALDI EPP,BH Lanches
+LANCH CUCA IDEAL,Lanchonete Cuca Ideal
+ZE DO HAMBURGER,Zé do Hamburger
+O GAITEIRO,O Gaiteiro
+REST DONA LUCINHA,Aneto
+AMARELINHO DAS BATIDAS,Amarelinho das Batidas
+DONA DEOLA,Dona Deola
+MOMIJI REST,Momiji
+MARACH,Marach
+CENTER CAST,Center Castilho
+BANCA DO JO,Banca do Jo
+MARIA TOMOK,Pastel da Feira
+PITICO SAND,Pitico
+CASA RAW   ,Casa Raw
+DAISO BRASI,Daiso
+PAG*CaldoDe,Caldo de Cana da Feira
+PAES E DOCE,Padaria Pães e Doces
+NEW KEBABEL,New Kebabel
+HIGH SIVE  ,Escola de Música
+DOC 001.REST. IR        ,IR
+LJ 2053 PAO,Padaria Júlia
+AFP GER DE ,BH Lanches
+PANIF PAO C,Padaria Pão Casiero
+MOISES DE O,Lanche de Pernil CEAGESP
+5 A SEC    ,Lavanderia 
+PIZZA NO PE,Pizza no Pé
+SERVENG TRA,Passagem Rodoviária
+6845 - GRSA,Subway
+AUTO POSTO ,Conveniência Graal
+BOBS AEROPO,Bobs
+MINHA CASA ,Restaurante Minha casa
+BOM DESCANS,Hotel Juliana Patos de Minas
+PROMOBOM AU,Ticket Metrô
+RESTAURANTE,Restaurante Shanghai
+PAN CONF AR,Padaria Arcadas
+ZENSHO DO B,Sukiya
+FRIENDS SELF SERVICE,Restaurante Friends
+AO BAR GUANABARA,Guanabara
+FAUSTO REST,Maria Escaleira
+RESTAURANTE CARRASCO S GRILL,Pura Gula
+RESTAURANTE QILOON,Qiloon
+POLSKA295,Polska 295
+ARMAZEM LA PARRILLA,La Parrilla
+OLE PIZZARIA,Pizzaria Olé
+NEW,Novo Mit
+MONTE GRAPPA,Monte Grappa
+DIVINO FOGAO,Divino Fogão
+O MESTRE DAS BATIDAS,Mestre das Batidas
+YUMN,Yumn
+ROCKABILLY LANCH,Rockabilly Lanches
+Z DELI SANDUICHES,Z Deli
+RAGAZZO EXPRESS MARIA ANTONIA MACKENZIE,Ragazzo
+SALADA RECORD,Salada Record
+POINT AUGUSTA LANCHES,Point Augusta Lanches
+kebab Paris,Kebab Paris
+Rinconcito peruano,Rinconcito Peruano

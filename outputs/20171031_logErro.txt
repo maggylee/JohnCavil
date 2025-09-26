@@ -1,0 +1,12 @@
+Arquivo;# Errro; Des;Data;Observação
+CC Itaú;1;Chave não encontrada;02/10/2017;INT  PAG TIT BANCO 237  
+CC Itaú;2;Categoria não encontrada;02/10/2017;INT  PAG TIT BANCO 237  
+CC Itaú;1;Chave não encontrada;02/10/2017;CARTAO PERSONNALITE     
+CC Itaú;2;Categoria não encontrada;02/10/2017;CARTAO PERSONNALITE     
+CC Itaú;1;Chave não encontrada;02/10/2017;CARTAO PERSONNALITE     
+CC Itaú;2;Categoria não encontrada;02/10/2017;CARTAO PERSONNALITE     
+CC Itaú;2;Categoria não encontrada;19/10/2017;RSHOP-5 A SEC    -19/10 
+CC Itaú;1;Chave não encontrada;20/10/2017;RSHOP-6845 - GRSA-20/10 
+CC Itaú;2;Categoria não encontrada;20/10/2017;RSHOP-6845 - GRSA-20/10 
+CC Itaú;1;Chave não encontrada;24/10/2017;INT  PAG TIT BANCO 237  
+CC Itaú;2;Categoria não encontrada;24/10/2017;INT  PAG TIT BANCO 237  
